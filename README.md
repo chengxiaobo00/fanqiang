@@ -1,6 +1,6 @@
 # 翻墙/科学上网
 
-旧账号Alvin9999被屏蔽不可兼，启用新账号。
+旧账号Alvin9999被屏蔽不可见，启用新账号。
 
 ![](https://cdn.jsdelivr.net/gh/Alvin9999-newpac/pac2/softimag/alvin9999.PNG)
 
